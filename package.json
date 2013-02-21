@@ -1,0 +1,29 @@
+{
+  "name": "jsonFileTree",
+  "version": "0.0.0",
+  "description": "converts a file tree of json files into one json object or file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "javascript",
+    "coffeescript",
+    "json",
+    "tree",
+    "file"
+  ],
+  "repository": "https://github.com/victusfate/jsonFileTree",
+  "scripts": {
+      "pretest": "cake build",
+      "prepublish": "cake build"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+      "coffee-script":        "~1.3.3"
+  },
+  "author": "Mark Essel",
+  "license": "BSD"
+}
