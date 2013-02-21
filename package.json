@@ -1,6 +1,6 @@
 {
   "name": "json_file_tree",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "converts a file tree of json files into one json object or file",
   "main": "index.js",
   "scripts": {
